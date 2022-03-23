@@ -1,0 +1,23 @@
+{
+  "name": "dockertest",
+  "version": "1.0.0",
+  "description": "Deployment test with Docker, using a very simple Node.js server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lulkafe/DockerTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lulkafe/DockerTest/issues"
+  },
+  "homepage": "https://github.com/Lulkafe/DockerTest#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
